@@ -1,0 +1,14 @@
+{
+   "name": "yyjson",
+   "url": "https://github.com/YellowAfterlife/yyjson",
+   "license": "MIT",
+   "classPath": "src/",
+   "tags": [
+      "json", "gamemaker"
+   ],
+   "description": "A haxelib for ",
+   "contributors": ["YellowAfterlife"],
+   "releasenote": "",
+   "version": "1.0.0",
+   "dependencies": { }
+}
